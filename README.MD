@@ -1,0 +1,1 @@
+batch convert any image file to 16bit bmp for some special use (fe: Microcontrollers writer)
