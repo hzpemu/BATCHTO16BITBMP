@@ -1,0 +1,8 @@
+C:\Users\hzp\Documents\Visual Studio 2015\Projects\BATCHTO16BITBMP\BATCHTO16BITBMP\bin\Release\BATCHTO16BITBMP.exe.config
+C:\Users\hzp\Documents\Visual Studio 2015\Projects\BATCHTO16BITBMP\BATCHTO16BITBMP\bin\Release\BATCHTO16BITBMP.exe
+C:\Users\hzp\Documents\Visual Studio 2015\Projects\BATCHTO16BITBMP\BATCHTO16BITBMP\bin\Release\BATCHTO16BITBMP.pdb
+C:\Users\hzp\Documents\Visual Studio 2015\Projects\BATCHTO16BITBMP\BATCHTO16BITBMP\obj\Release\BATCHTO16BITBMP.Form1.resources
+C:\Users\hzp\Documents\Visual Studio 2015\Projects\BATCHTO16BITBMP\BATCHTO16BITBMP\obj\Release\BATCHTO16BITBMP.Properties.Resources.resources
+C:\Users\hzp\Documents\Visual Studio 2015\Projects\BATCHTO16BITBMP\BATCHTO16BITBMP\obj\Release\BATCHTO16BITBMP.csproj.GenerateResource.Cache
+C:\Users\hzp\Documents\Visual Studio 2015\Projects\BATCHTO16BITBMP\BATCHTO16BITBMP\obj\Release\BATCHTO16BITBMP.exe
+C:\Users\hzp\Documents\Visual Studio 2015\Projects\BATCHTO16BITBMP\BATCHTO16BITBMP\obj\Release\BATCHTO16BITBMP.pdb
